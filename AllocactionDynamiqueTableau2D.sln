@@ -1,25 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32106.194
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllocactionDynamiqueTableau2D", "AllocactionDynamiqueTableau2D.csproj", "{6C03FB3C-683E-4B20-99E7-2AC6119B5A70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllocactionDynamiqueTableau2D", "AllocactionDynamiqueTableau2D.csproj", "{FD3FE483-3F3B-C267-11E4-83889113E2DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6C03FB3C-683E-4B20-99E7-2AC6119B5A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6C03FB3C-683E-4B20-99E7-2AC6119B5A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6C03FB3C-683E-4B20-99E7-2AC6119B5A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6C03FB3C-683E-4B20-99E7-2AC6119B5A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD3FE483-3F3B-C267-11E4-83889113E2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3FE483-3F3B-C267-11E4-83889113E2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3FE483-3F3B-C267-11E4-83889113E2DE}.Debug|x86.ActiveCfg = Debug|x86
+		{FD3FE483-3F3B-C267-11E4-83889113E2DE}.Debug|x86.Build.0 = Debug|x86
+		{FD3FE483-3F3B-C267-11E4-83889113E2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3FE483-3F3B-C267-11E4-83889113E2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD3FE483-3F3B-C267-11E4-83889113E2DE}.Release|x86.ActiveCfg = Release|x86
+		{FD3FE483-3F3B-C267-11E4-83889113E2DE}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {032923A4-9FB7-42EB-9C4A-4995E5BE3D7C}
+		SolutionGuid = {4D682B79-5C5A-4760-A2C5-AAB843AD1D17}
 	EndGlobalSection
 EndGlobal
